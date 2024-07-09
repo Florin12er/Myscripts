@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+gzdoom ~/Downloads/DOOM64/D64RTR[v1.5].WAD
+

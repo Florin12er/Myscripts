@@ -1,0 +1,2 @@
+#!/bin/bash
+MANGOHUD_DLSYM=1 mangohud /usr/bin/dhewm3
